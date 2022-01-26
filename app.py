@@ -7,7 +7,7 @@ from checkBalance import check_balance
 from openAnAccount import open_an_account
 from buyAirtime import buy_airtime
 
-print("<<<AUTOMATED TELLER MACHINE SIMULATOR>>>")
+print("<<<3VERSE BANK OF AFRIKA SIMULATOR>>>")
 
 try:
     pin = int(input("Please enter your pincode: "))
